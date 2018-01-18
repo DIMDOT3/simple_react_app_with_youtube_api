@@ -1,4 +1,5 @@
-# ReduxSimpleStarter
+# React App with Youtube API
+App is a project on the Udemy.com course "Modern React with Redux" by Stephen Grider.
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
